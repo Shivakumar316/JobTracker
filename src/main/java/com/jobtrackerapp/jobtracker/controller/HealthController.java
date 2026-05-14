@@ -24,7 +24,7 @@ public class HealthController {
             "analyze",  "POST /api/applications/{id}/analyze (requires JWT)",
             "dashboard", "GET /api/dashboard/stats (requires JWT)"
         ));
-        response.put("documentation", "https://github.com/yourusername/jobtracker");
+        response.put("documentation", "https://github.com/Shivakumar316/jobtracker");
         return ResponseEntity.ok(response);
     }
 

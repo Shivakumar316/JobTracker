@@ -115,7 +115,7 @@ status_history
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/jobtracker.git
+git clone https://github.com/Shivakumar316/jobtracker.git
 cd jobtracker
 ```
 
